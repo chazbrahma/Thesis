@@ -40,6 +40,6 @@ Experiment Setup: Multiple experiments are conducted by varying the network topo
 
 Results:
 
-The results of each experiment, including network structure snapshots, return plots, and cumulative distribution plots, are saved in the results directory as .jpeg images.
+The results of each experiment, including network structure snapshots, return plots, and cumulative distribution plots.
 
 feel free to use
